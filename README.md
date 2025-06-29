@@ -3,7 +3,7 @@
     <img src=".docs/preview.png" alt="Aperçu de la page de Noël animée">  
   </a>  
   </br></br>  
-  <h3 align="center">🎄 Page de Noël Animée – Ambiance Festive</h3>  
+  <h3 align="center">🎄 Animation de Fond &nbsp;–&nbsp; Noël</h3>  
 </div>
 
 ## <br /> 📌 Sommaire
@@ -15,28 +15,26 @@
 
 ## <br /> <a name="introduction">🎨 Introduction</a>
 
-Landing page festive sur le thème de Noël avec effets GSAP, chariot animé, nuages flottants et pluie de neige interactive.
+Landing page festive sur le thème de Noël, animée avec **GSAP**, chariot en mouvement, nuages flottants et neige interactive. Le design immersif transporte l’utilisateur dans une ambiance hivernale et enchantée.
 
-Idéal pour les sites saisonniers, événements de fin d’année ou pages d’accueil thématiques.
-
-Chaque élément visuel est animé pour créer une atmosphère magique et chaleureuse.
+Parfaite pour les sites saisonniers, campagnes de fin d’année ou pages d’accueil thématiques, chaque élément visuel contribue à créer une atmosphère chaleureuse, dynamique et engageante.
 
 ## <br /> <a name="technologies">🛠️ Technologies</a>
 
 - HTML5 sémantique et accessible
-- CSS3 avec animations, media queries, keyframes
+- CSS3 moderne avec variables, media queries et animations
 - JavaScript ES6 clair et modulaire
-- [GSAP](https://greensock.com/gsap/) pour les animations
+- [GSAP](https://greensock.com/gsap/) pour les animations fluides
 - [Snow.js](https://app.embed.im/snow.js) pour les flocons de neige
-- Remix Icons pour les icônes vectorielles
+- [Remix Icons](https://remixicon.com/) pour les icônes vectorielles
 
 ## <br /> <a name="fonctionnalités">🎯 Fonctionnalités</a>
 
 - Chariot du Père Noël animé avec keyframes
-- Apparitions synchronisées d’éléments GSAP (cadeaux, décorations, etc.)
-- Neige animée via script externe
+- Apparitions synchronisées d’éléments GSAP
+- Neige animée via Snow.js
 - Nuages défilants avec animation fluide
-- Titre central animé (Joyeux Noël)
+- Titre central animé Joyeux Noël
 - Design responsive et adaptatif
 - Menu de navigation mobile animé
 - Ambiance visuelle immersive et festive
